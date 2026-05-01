@@ -4,7 +4,7 @@ Return the number plus 1.
 */
 
 function addOne(number) {
-  throw new Error('Not implemented yet');
+  return number+1
 }
 
 module.exports = { addOne };
