@@ -1,0 +1,16 @@
+{
+  "name": "rafael-js-exercises",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node scripts/watch-progress.js --once",
+    "watch": "node scripts/watch-progress.js",
+    "hint": "node scripts/hint.js",
+    "check": "node scripts/self-check.js",
+    "test:all": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.1"
+  }
+}
