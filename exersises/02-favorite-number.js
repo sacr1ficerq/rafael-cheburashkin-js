@@ -4,7 +4,7 @@ Return the number 7.
 */
 
 function favoriteNumber() {
-  throw new Error('Not implemented yet');
+  return 7
 }
 
 module.exports = { favoriteNumber };

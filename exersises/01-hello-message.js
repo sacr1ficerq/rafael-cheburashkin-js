@@ -4,7 +4,7 @@ Return the exact text "Hello, JavaScript!".
 */
 
 function sayHello() {
-  throw new Error('Not implemented yet');
+  return "Hello, JavaScript!"
 }
 
 module.exports = { sayHello };
