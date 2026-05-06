@@ -4,7 +4,7 @@ Return the name property from the pet object.
 */
 
 function getPetName(pet) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { getPetName };

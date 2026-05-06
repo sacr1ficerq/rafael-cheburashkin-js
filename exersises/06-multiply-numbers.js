@@ -4,7 +4,7 @@ Return the first number times the second number.
 */
 
 function multiplyNumbers(a, b) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { multiplyNumbers };

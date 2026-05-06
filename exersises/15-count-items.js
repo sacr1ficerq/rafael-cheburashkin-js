@@ -4,7 +4,7 @@ Return how many items are in the array.
 */
 
 function countItems(items) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { countItems };

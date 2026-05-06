@@ -4,7 +4,7 @@ Add all numbers in the array and return the total.
 */
 
 function sumArray(numbers) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { sumArray };

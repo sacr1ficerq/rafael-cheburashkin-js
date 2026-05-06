@@ -5,7 +5,7 @@ If both are the same, return either one.
 */
 
 function biggerNumber(a, b) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { biggerNumber };

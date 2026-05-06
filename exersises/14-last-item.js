@@ -4,7 +4,7 @@ Return the last item in the array.
 */
 
 function lastItem(items) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { lastItem };

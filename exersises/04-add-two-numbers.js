@@ -4,7 +4,7 @@ Return the sum of both numbers.
 */
 
 function addTwoNumbers(a, b) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { addTwoNumbers };

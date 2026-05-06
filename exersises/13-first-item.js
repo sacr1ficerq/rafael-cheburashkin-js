@@ -4,7 +4,7 @@ Return the first item in the array.
 */
 
 function firstItem(items) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { firstItem };

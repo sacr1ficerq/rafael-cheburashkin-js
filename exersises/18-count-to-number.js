@@ -5,7 +5,7 @@ Example: countToNumber(4) returns [1, 2, 3, 4].
 */
 
 function countToNumber(number) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { countToNumber };

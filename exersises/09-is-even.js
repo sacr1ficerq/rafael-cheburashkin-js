@@ -5,7 +5,7 @@ Return false when the number is odd.
 */
 
 function isEven(number) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { isEven };

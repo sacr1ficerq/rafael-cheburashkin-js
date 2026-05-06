@@ -6,7 +6,7 @@ Return null when the operator is not supported.
 */
 
 function calculator(a, operator, b) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { calculator };

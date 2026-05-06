@@ -44,6 +44,6 @@ The watcher only focuses on the first unfinished exercise, so the child can work
 
 ## Notes
 
-- Each starter file begins with `throw new Error("Not implemented yet")` on purpose.
+- Each starter file returns `undefined` until the child solves the exercise.
 - The tests are meant to fail until the child solves the current exercise.
 - The final exercise is a small calculator that supports `+`, `-`, `*`, and `/`.

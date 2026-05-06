@@ -5,7 +5,7 @@ Example: repeatWord("hi", 3) returns "hi hi hi".
 */
 
 function repeatWord(word, times) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { repeatWord };

@@ -4,7 +4,7 @@ Return the first letter in the word.
 */
 
 function firstLetter(word) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { firstLetter };

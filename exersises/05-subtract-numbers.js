@@ -4,7 +4,7 @@ Return the first number minus the second number.
 */
 
 function subtractNumbers(a, b) {
-  throw new Error('Not implemented yet');
+  return undefined;
 }
 
 module.exports = { subtractNumbers };
